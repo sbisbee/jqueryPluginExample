@@ -1,0 +1,13 @@
+{
+  "name": "flux",
+  "label": "Flux Capacitor",
+  "license": ["mit"],
+  "copyright": "2011 Sam Bisbee",
+  "versions": {
+    "0.1-alpha": {
+      "dependencies": {
+        "jquery": "1.4"
+      }
+    }
+  }
+}
